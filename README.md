@@ -36,13 +36,7 @@ This project contains my personal portfolio website, developed using **Flutter W
 
 ## 📦 Project Structure
 
-| Folder / File       | Description                      |
-|---------------------|----------------------------------|
-| `web/`              | Flutter Web build output         |
-| `README.md`         | This documentation               |
-| `.github/`          | Optional GitHub Actions setup    |
-
----
+The portfolio contents are in my portfolio repository [Here](https://github.com/MrDaniel07/Portfolio)
 
 ## 🔐 Security Considerations
 
