@@ -36,7 +36,7 @@ This project contains my personal portfolio website, developed using **Flutter W
 
 ## 📦 Project Structure
 
-The portfolio contents are in my portfolio repository [Here](https://github.com/MrDaniel07/Portfolio)
+The portfolio website contents are in my portfolio repository [Here](https://github.com/MrDaniel07/Portfolio)
 
 ## 🔐 Security Considerations
 
